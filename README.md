@@ -8,6 +8,6 @@ Built a crypto currency price chacking app, using flutter. It helps to monitor b
 - Cupertino Widgets.
 
 ## Screenshots
-<img src="./p2.jpeg" width="150" height="200">
+<img src="./p2.jpeg"  height="450">
 <img src="./p1.jpeg" width="800">
 <img src="./p3.jpeg" width="800">
